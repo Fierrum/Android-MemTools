@@ -1,2 +1,2 @@
 # Android-MemTools
- Tools for patching mem and installing hooks
+ Tools for patching memory and installing hooks
